@@ -44,13 +44,12 @@ My website - Loading...60%
 <br />
 <br />
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reksaandhika&layout=compact)](https://github.com/reksaandhika/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novruzoviche&layout=compact)](https://github.com/Novruzoviche/github-readme-stats) -->
 
 ## Github Stats
 
-[![Reksa Andhika's github stats](https://github-readme-stats.vercel.app/api?username=Novruzoviche&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)](https://github.com/Novruzoviche/github-readme-stats)
+[![Novruzoviche's github stats](https://github-readme-stats.vercel.app/api?username=Novruzoviche&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)](https://github.com/Novruzoviche/github-readme-stats)
 
-<!-- [website]: https://reksaandhika.com -->
 [linkedin]: https://www.linkedin.com/in/novruzoviche/
 [codepen]: https://codepen.io/Novruzovich
 [instagram]: https://instagram.com/novruzoviche
