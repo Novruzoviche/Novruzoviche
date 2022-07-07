@@ -48,7 +48,7 @@ My website - Loading...60%
 
 ## Github Stats
 
-(https://github-readme-stats.vercel.app/api?username=Novruzoviche&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)(https://github.com/Novruzoviche/github-readme-stats)
+[![Novruzoviche's github stats](https://github-readme-stats.vercel.app/api?username=Novruzoviche&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)](https://github.com/Novruzoviche/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/novruzoviche/
 [codepen]: https://codepen.io/Novruzovich
