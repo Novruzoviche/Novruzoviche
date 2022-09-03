@@ -1,3 +1,41 @@
+
+[![PyPi][pypi-shield]][pypi-url]
+[![PyPi][pypiversion-shield]][pypi-url]
+[![PyPi][downloads-shield]][downloads-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![License][license-shield]][license-url]
+[![Build][build-shield]][build-url]
+[![Interrogate][interrogate-shield]][interrogate-url]
+<!-- [![CodeCov][codecov-shield]][codecov-url] -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[pypi-shield]: https://img.shields.io/pypi/pyversions/Novruzoviche?style=for-the-badge
+[pypi-url]: https://pypi.org/project/Novruzoviche/
+[pypiversion-shield]: https://img.shields.io/pypi/v/Novruzoviche?style=for-the-badge
+
+[downloads-shield]: https://img.shields.io/pypi/dm/Novruzoviche?style=for-the-badge
+[downloads-url]: https://pypi.org/project/Novruzoviche/
+[codecov-shield]: https://img.shields.io/codecov/c/gh/Novruzoviche/Novruzoviche?style=for-the-badge
+[codecov-url]: https://codecov.io/gh/Novruzoviche/Novruzoviche
+[contributors-shield]: https://img.shields.io/github/contributors/Novruzoviche/Novruzoviche?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/Novruzoviche/Novruzoviche?style=for-the-badge
+[license-url]: https://github.com/Novruzoviche/Novruzoviche/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/company/Novruzoviche/
+[twitter-shield]: https://img.shields.io/twitter/follow/Novruzoviche?style=for-the-badge
+[twitter-url]: https://twitter.com/Novruzoviche
+[slack-shield]: https://img.shields.io/badge/-Slack-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[slack-url]: https://Novruzoviche/slack-invite
+[build-shield]: https://img.shields.io/github/workflow/status/Novruzoviche/Novruzoviche/Build,%20Lint,%20Unit%20&%20Integration%20Test/develop?logo=github&style=for-the-badge
+[build-url]: https://github.com/Novruzoviche/Novruzoviche/actions/workflows/ci.yml
+[interrogate-shield]: https://img.shields.io/badge/Interrogate-100%25-brightgreen?style=for-the-badge&logo=interrogate
+[interrogate-url]: https://interrogate.readthedocs.io/en/latest/
+
+
+
+
 <div align="center">
 ### Hi 👋 I'm Sabuhi Novruzov
 
