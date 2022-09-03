@@ -46,8 +46,10 @@ My website - Loading...60%
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novruzoviche&layout=compact)](https://github.com/Novruzoviche/github-readme-stats) -->
 
-## Github Stats
+->## Github Status
 [![Novruzov's github stats](https://github-readme-stats.vercel.app/api?username=novruzoviche&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)](https://github.com/novruzoviche/github-readme-stats)
+<-
+
   
 [linkedin]: https://www.linkedin.com/in/novruzoviche/
 [codepen]: https://codepen.io/Novruzovich
