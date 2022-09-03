@@ -55,3 +55,13 @@ My website - Loading...60%
 [instagram]: https://instagram.com/novruzoviche
 [twitter]: https://twitter.com/Novruzoviche
 [discord]: https://discord.com/users/Novruzovich#2789
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Novruzoviche" alt="Novruzoviche" /></a> </p>
+
+<p align="center">
+	<a href="https://github.com/Novruzoviche">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Novruzoviche&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="Novruzoviche"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Novruzoviche&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="Novruzoviche"/>
+	</a>
+</p>
+
