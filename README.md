@@ -1,3 +1,4 @@
+<center>
 ### Hi 👋 I'm Sabuhi Novruzov
 
 ## I'm a Full Stack Web Developer
@@ -43,7 +44,7 @@ My website - Loading...60%
 
 <br />
 <br />
-
+</center>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novruzoviche&layout=compact)](https://github.com/Novruzoviche/github-readme-stats) -->
   
 [linkedin]: https://www.linkedin.com/in/novruzoviche/
